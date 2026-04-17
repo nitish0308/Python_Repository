@@ -2,6 +2,7 @@ from collections import namedtuple
 
 
 def average_namedtuple(students, columns):
+    '''This funtion receives list of students where each entry is space seperated details and the columns and converts them into average '''
     student = namedtuple('std',columns)
     no_of_students=len(students)
     total_marks=0
