@@ -1,1 +1,1 @@
-This my collection of interesting hackerrank puzzles. 
+This is my collection of interesting hackerrank puzzles. 
