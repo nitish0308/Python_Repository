@@ -1,4 +1,3 @@
-
 def average(array):
     # your code goes here
     arr_len=len(set(array))
